@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="usuartio">ID USUARIO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="telefono">TELEFONO</string>
+    <string name="alta">ALTA</string>
+    <string name="consulta">CONSULTA</string>
+    <string name="modificacion">MODIFICACIÓN</string>
+    <string name="eliminar">ELIMINAR</string>
+
+</resources>
